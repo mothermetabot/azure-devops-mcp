@@ -115,6 +115,13 @@ Here's where things stand and where they're headed.
 - [x] Build details and timeline inspection
 - [x] Build log retrieval
 
+### Up next
+
+- [ ] Refactor into testable modules (extract API layer, inject config, separate formatting)
+- [ ] Add unit tests
+- [ ] Publish as npm package
+- [ ] GitHub Actions workflow for CI and npm publishing
+
 ### Not yet supported (but on the radar)
 
 - [ ] Git/repository operations (repos, pull requests, branches)
