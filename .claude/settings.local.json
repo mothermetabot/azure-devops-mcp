@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(find /c/Users/Sergio.Lopes/home/src/azure-devops-mcp -type f \\\\\\(-name *.env -o -name *.env.local -o -name *.env.* -o -name *credentials* -o -name *secrets* \\\\\\))",
+      "Bash(git -C /c/Users/Sergio.Lopes/home/src/azure-devops-mcp config --list)"
+    ]
+  }
+}
