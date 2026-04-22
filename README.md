@@ -39,7 +39,7 @@ The idea is simple: give your MCP-compatible AI assistant (Claude, etc.) direct 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/azure-devops-mcp.git
+git clone https://github.com/mothermetabot/azure-devops-mcp.git
 cd azure-devops-mcp
 npm install
 npm run build
