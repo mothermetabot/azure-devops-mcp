@@ -1,14 +1,15 @@
 {
-  "name": "azure-devops-mcp",
+  "name": "@mothermetabot/azure-devops-mcp",
   "version": "1.0.0",
-  "description": "",
+  "description": "An MCP server for Azure DevOps work items and pipelines",
   "main": "dist/index.js",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "mothermetabot",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
